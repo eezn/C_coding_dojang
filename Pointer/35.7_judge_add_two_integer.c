@@ -5,8 +5,8 @@ int main()
 {
 	int num1, num2;
 
-	int *numPtr1 = malloc(sizeof(int));
-	int *numPtr2 = malloc(sizeof(int));
+	int* numPtr1 = malloc(sizeof(int));
+	int* numPtr2 = malloc(sizeof(int));
 
 	scanf("%d %d", &num1, &num2);
 

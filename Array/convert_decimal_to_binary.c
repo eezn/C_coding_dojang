@@ -17,7 +17,8 @@ int main()
 			break;
 	}
 
-	for (int i = position -1; i >= 0; i--)
+	// 배열의 요소를 역순으로 출력
+	for (int i = position - 1; i >= 0; i--)
 	{
 		printf("%d", binary[i]);
 	}
