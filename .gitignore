@@ -1,5 +1,5 @@
-.dll
-.exe
-.o
-.so
-.com
+*.dll
+*.exe
+*.o
+*.so
+*.com
